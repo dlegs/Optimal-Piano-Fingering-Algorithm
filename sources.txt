@@ -1,0 +1,9 @@
+1) Finding Optimal Piano Fingerings
+Melanie Hart, Robert Bosch, and Elbert Tsai
+Feb. 14, 2000
+
+2) Generating Fingerings for Polyphonic Piano Music with a Tabu Search Algorithm
+Matteo Balliauw, Dorien Herremans, Daniel Palhazi Cuervo, and Kenneth Sorensen
+2000
+
+
